@@ -23,8 +23,8 @@
     <a href="#inicio">Inicio</a>
     <a href="#servicios">Servicios</a>
     <a href="#contacto">Contacto</a>
-    <a href="tel:+5402392431635" class="btn btn-primary">Llamar ahora</a>
-    <a href="mailto:contador@consultorairiarte.com.ar" class="btn btn-outline">Enviar email</a>
+    <a href="tel:+5402392415555" class="btn btn-primary">Llamar ahora</a>
+    <a href="mailto:cdoririarte@gmail.com" class="btn btn-outline">Enviar email</a>
   `;
   document.body.appendChild(mobileNav);
 
